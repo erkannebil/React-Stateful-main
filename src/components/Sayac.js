@@ -1,8 +1,6 @@
 /*
 SAYAÇ Talimatları
 
-Aşağıdaki kısa videoyu izleyin, UI ve Chrome Devtools'a dikkat edin:
-https://www.ergineer.com/assets/materials/a664dfe7-sayac.gif
 
 Bu Sayacı oluşturmak için kaç adet state dilimine ihtiyacınız var? Başlamadan önce biraz üzerine düşünün!
 
