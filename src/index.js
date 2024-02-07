@@ -16,7 +16,8 @@ root.render(<>
   <Sayac />
   <Dondurucu />
   <Kareler />
+  <Programcilar /> 
   {/* 
   <RuhHalleri />
-  <Programcilar /> */}
+  */}
 </>);
