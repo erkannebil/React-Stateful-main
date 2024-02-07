@@ -15,7 +15,6 @@ ADIM 0:
 ADIM 1:
   'inputDeğeri' ve 'setInputDeğeri' ikili state hookunu oluşturun.
   Bu state boş bir string olarak yüklenecektir(initialize).
-
 ADIM 2:
   'inputDeğeri' uzunluğu 10 karakteri geçerse renk crimson olacaktır.
 
