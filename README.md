@@ -62,4 +62,7 @@ Bu projeye bileşen olarak bir Tic Tac Toe oyunu ekleyin. 'X' ve 'O' ların pozi
   
 Önceki kontroller olumsuz çıkarsa, bilgisayarın hareketi muhtemelen rastgele olacaktır, ancak "oyun motorunun" ne kadar akıllı hissedeceğine şaşıracaksınız.
 
-İPUCU: React'ın sitesinde dökümanlarda React ile kapsamlı bir Tic Tac Toe oyunu nasıl yapılır adım adım anlatılmıştır, o örneği inceleyebilirsiniz.
+<img width="1470" alt="image" src="https://github.com/erkannebil/React-Stateful-main/assets/80630016/af110d4d-e5df-4758-8970-c89918e271a0">
+<img width="1403" alt="image" src="https://github.com/erkannebil/React-Stateful-main/assets/80630016/78c09609-9e68-47dc-9692-3af165cc5a02">
+
+
