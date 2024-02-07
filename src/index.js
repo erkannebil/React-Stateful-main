@@ -15,11 +15,8 @@ root.render(<>
   <Input />
   <Sayac />
   <Dondurucu />
-  {/* 
-  <Sayac />
-  <RuhHalleri />
-  
-  <Input />
   <Kareler />
+  {/* 
+  <RuhHalleri />
   <Programcilar /> */}
 </>);
