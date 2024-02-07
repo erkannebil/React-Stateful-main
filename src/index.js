@@ -14,10 +14,11 @@ const root = createRoot(container)
 root.render(<>
   <Input />
   <Sayac />
+  <Dondurucu />
   {/* 
   <Sayac />
   <RuhHalleri />
-  <Dondurucu />
+  
   <Input />
   <Kareler />
   <Programcilar /> */}
