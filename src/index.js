@@ -17,7 +17,5 @@ root.render(<>
   <Dondurucu />
   <Kareler />
   <Programcilar /> 
-  {/* 
   <RuhHalleri />
-  */}
 </>);
